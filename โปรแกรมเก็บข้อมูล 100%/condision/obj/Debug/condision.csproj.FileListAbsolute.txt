@@ -1,0 +1,15 @@
+C:\Users\ponkr\OneDrive\เดสก์ท็อป\born to dev\condision\condision\bin\Debug\condision.exe.config
+C:\Users\ponkr\OneDrive\เดสก์ท็อป\born to dev\condision\condision\bin\Debug\condision.exe
+C:\Users\ponkr\OneDrive\เดสก์ท็อป\born to dev\condision\condision\bin\Debug\condision.pdb
+C:\Users\ponkr\OneDrive\เดสก์ท็อป\born to dev\condision\condision\obj\Debug\condision.csproj.AssemblyReference.cache
+C:\Users\ponkr\OneDrive\เดสก์ท็อป\born to dev\condision\condision\obj\Debug\condision.csproj.SuggestedBindingRedirects.cache
+C:\Users\ponkr\OneDrive\เดสก์ท็อป\born to dev\condision\condision\obj\Debug\condision.csproj.CoreCompileInputs.cache
+C:\Users\ponkr\OneDrive\เดสก์ท็อป\born to dev\condision\condision\obj\Debug\condision.exe
+C:\Users\ponkr\OneDrive\เดสก์ท็อป\born to dev\condision\condision\obj\Debug\condision.pdb
+C:\Users\ponkr\OneDrive\เดสก์ท็อป\born to dev\โปรแกรมเก็บข้อมูล 100%\condision\bin\Debug\condision.exe.config
+C:\Users\ponkr\OneDrive\เดสก์ท็อป\born to dev\โปรแกรมเก็บข้อมูล 100%\condision\bin\Debug\condision.exe
+C:\Users\ponkr\OneDrive\เดสก์ท็อป\born to dev\โปรแกรมเก็บข้อมูล 100%\condision\bin\Debug\condision.pdb
+C:\Users\ponkr\OneDrive\เดสก์ท็อป\born to dev\โปรแกรมเก็บข้อมูล 100%\condision\obj\Debug\condision.csproj.AssemblyReference.cache
+C:\Users\ponkr\OneDrive\เดสก์ท็อป\born to dev\โปรแกรมเก็บข้อมูล 100%\condision\obj\Debug\condision.csproj.CoreCompileInputs.cache
+C:\Users\ponkr\OneDrive\เดสก์ท็อป\born to dev\โปรแกรมเก็บข้อมูล 100%\condision\obj\Debug\condision.exe
+C:\Users\ponkr\OneDrive\เดสก์ท็อป\born to dev\โปรแกรมเก็บข้อมูล 100%\condision\obj\Debug\condision.pdb
